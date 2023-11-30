@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
